@@ -18,9 +18,9 @@ As for what I'm pleased with functionality-wise, the withdraw/deposit and update
 ## Setup/Installation Requirements
 
 #### You'll need:
-1. Updated version of Java installed on your system.
+1. An updated version of Java installed on your system.
 2. An IDE that can read Java, like [Eclipse](https://www.eclipse.org/downloads/)) or you can run it from your Windows Command Prompt (or the Mac/Linux equivalent of the Windows Command Prompt).
-3. Download this repository and run the program.
+3. to download this repository and run the program.
 
 ## Known Bugs
 - The 'Recent Transactions' menu does not show recent transactions.
