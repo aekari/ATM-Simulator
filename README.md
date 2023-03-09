@@ -9,7 +9,7 @@ An ATM simulator app where you can cycle through different menus to withdraw, de
 
 ![](https://i.imgur.com/AgjaXE1.png)
 
-ATM $imulator is a project I worked on within the first couple weeks of learning back end development. I chose to include menu styling and text justification (center text, justify left, justify right) in this initial project which was an unessessary feature as far as functionality, but I learned a lot about Java through trial and error, and was able to better understood some of the more abstract Java/object-oriented programming concepts by working on the visuals.
+ATM $imulator is a project I worked on within the first couple weeks of learning back end development. I chose to include menu styling and text justification (center text, justify left, justify right) in this initial project which was an unessessary feature as far as functionality, but I learned a lot about Java by doing it, and was able to better understood some of the more abstract Java/object-oriented programming concepts through it.
 
 Functionality-wise, the withdraw/deposit and update/address methods calculate and output the updated balance accurately, which is what you'd want and exspect from an ATM:
 
