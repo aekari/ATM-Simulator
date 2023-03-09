@@ -1,6 +1,6 @@
 # ATM $imulator
 
-An ATM simulator app where you can cycle through different menues to withdraw, deposit, change name and address.
+An ATM simulator app where you can cycle through different menus to withdraw, deposit, change name and address.
 ## Technologies Used
 
 ![](https://img.shields.io/badge/-Java-black.svg?style=flat-square&logo=openjdk&colorB=000)
