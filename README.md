@@ -25,7 +25,8 @@ Functionality-wise, the withdraw/deposit and update/address methods calculate an
 ## Known Bugs
 - The 'Recent Transactions' menu does not show recent transactions.
 - Depending on the IDE you use some menu styling may look different.
-- The scanners remain open, which is not very efficient.
+
+Keep in mind this is a beginner project but for the most part, it runs!
 
 ![](https://i.imgur.com/N3WKGf3.png)
 
